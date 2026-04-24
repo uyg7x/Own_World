@@ -184,26 +184,6 @@ COOLDOWN_SECONDS = 35  # Change cooldown duration
 
 ---
 
-## 📝 What to Commit to GitHub
-
-### ✅ DO Commit:
-- `src/` - All frontend code
-- `backend/` - Python backend code (EXCEPT .env)
-- `public/` - Static assets
-- `package.json`, `pnpm-lock.yaml`
-- `requirements.txt`
-- `.gitignore`, `README.md`
-- Configuration files (tsconfig, vite, tailwind, etc.)
-
-### ❌ DO NOT Commit:
-- `.env` files (contains API keys)
-- `node_modules/`
-- `dist/` or `build/`
-- `__pycache__/`
-- `*.pyc` files
-- IDE files (`.vscode/`, `.idea/`)
-
----
 
 ## 🚨 Important Notes
 
