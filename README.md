@@ -1,4 +1,4 @@
-# 🧘 PJY SelfCare - Emotional Wellness Companion
+# PJY SelfCare - Emotional Wellness Companion
 
 An AI-powered emotional wellness companion that detects your mood through facial expressions, provides comfort through conversation, and speaks to you in your cloned voice.
 
@@ -60,8 +60,8 @@ An AI-powered emotional wellness companion that detects your mood through facial
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/pjy-selfcare.git
-cd pjy-selfcare
+git clone https://github.com/uyg7x/pjy-selfcare.git
+cd Own_World
 ```
 
 ### 2. Install Frontend Dependencies
@@ -412,4 +412,5 @@ MIT License - See LICENSE file for details.
 
 ---
 
-Built with ❤️ for emotional wellness
+# Built with PJY_&_Founder
+Plz Feel Free To Contact Us Dbhagat2007@gmail.com
