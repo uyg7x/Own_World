@@ -9,40 +9,40 @@ An AI-powered emotional wellness companion that detects your mood through facial
 
 ---
 
-## 🎯 Features
+##  Features
 
-### 🖥️ Smart UI Layout
+###  Smart UI Layout
 - **Left Panel (30%)**: Chat, settings, controls
 - **Right Panel (70%)**: Live camera feed with mood detection
 - Clean, minimal design with warm color palette
 - Responsive layout
 
-### 📸 Real-Time Mood Detection
+###  Real-Time Mood Detection
 - Face expression analysis using face-api.js
 - Detects: Happy, Sad, Angry, Bored, Neutral
 - All processing happens locally (zero face data stored)
 - Works with standard webcam (640x480)
 
-### 🤖 Auto-Comfort System
+###  Auto-Comfort System
 - Automatically triggers when negative mood detected
 - Starts with light joke in your language
 - Followed by calming conversation
 - 35-second cooldown prevents spam
 - Toggle ON/OFF in Settings → Advanced
 
-### 🗣️ Voice Features
+###  Voice Features
 - Voice input via browser Speech Recognition
 - AI responses spoken in your cloned voice (ElevenLabs)
 - Multi-language: Hindi, Tamil, Punjabi, Bengali, English
 - Upload .mp3/.wav to clone your voice
 
-### 💬 AI Conversation
+###  AI Conversation
 - Persona-based: Bestie, Family, or Mentor
 - Hinglish/regional tone matching
 - Learns your likes/dislikes
 - Concise responses (3-4 lines max)
 
-### 🔐 Privacy First
+###  Privacy First
 - Zero face/image storage
 - Audio only uploaded for voice cloning
 - Mental health disclaimer included
@@ -50,7 +50,7 @@ An AI-powered emotional wellness companion that detects your mood through facial
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js 18+ and pnpm
@@ -107,7 +107,7 @@ App runs on http://localhost:5173
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 pjy-selfcare/
@@ -130,7 +130,7 @@ pjy-selfcare/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React 18.3 with TypeScript
@@ -147,7 +147,7 @@ pjy-selfcare/
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 ### Change App Name
 Edit `src/App.tsx` line ~192:
@@ -172,7 +172,7 @@ COOLDOWN_SECONDS = 35  # Change cooldown duration
 
 ---
 
-## 🔑 API Keys Required
+##  API Keys Required
 
 1. **Groq API** (AI Chat)
    - Get free key: https://console.groq.com/
@@ -185,7 +185,7 @@ COOLDOWN_SECONDS = 35  # Change cooldown duration
 ---
 
 
-## 🚨 Important Notes
+##  Important Notes
 
 ### Security
 - Never commit `.env` files with API keys
@@ -204,7 +204,7 @@ COOLDOWN_SECONDS = 35  # Change cooldown duration
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create feature branch (`git checkout -b feature/AmazingFeature`)
@@ -214,13 +214,13 @@ COOLDOWN_SECONDS = 35  # Change cooldown duration
 
 ---
 
-## 📄 License
+##  License
 
 MIT License - feel free to use for personal or commercial projects
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - Face detection
 - [Groq](https://groq.com/) - Fast LLM inference
@@ -229,7 +229,7 @@ MIT License - feel free to use for personal or commercial projects
 
 ---
 
-## 📞 Support
+##  Support
 
 For issues or questions:
 - Open a GitHub issue
@@ -237,7 +237,7 @@ For issues or questions:
 
 **Mental Health Disclaimer**: This app is for wellness support only, not a replacement for professional mental health care.
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js 18+
@@ -286,7 +286,7 @@ Frontend will start at `http://localhost:5173`
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 emotional-wellness-companion/
@@ -364,7 +364,7 @@ MOOD_THRESHOLDS = {
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 ### Frontend (Vercel)
 
@@ -400,7 +400,7 @@ MOOD_THRESHOLDS = {
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 **Wellness Buddy** is an AI companion designed to provide emotional support through conversation. It is **NOT** a replacement for professional mental health services. If you're experiencing mental health challenges, please consult a qualified healthcare professional.
 
